@@ -1,6 +1,5 @@
 # project1_globalstore
 The project utilizes Power BI, a powerful data visualization and reporting tool, to provide insights and make data-driven decisions.
-![excel store dashboard](https://github.com/kiranmundhe/project1_globalstore/assets/133971186/4f318a50-d22d-4962-acda-193524341743)
 
 Key Objectives:
 
