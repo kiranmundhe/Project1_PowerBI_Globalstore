@@ -1,4 +1,4 @@
-# project1_globalstore
+# Project1_PowerBI_globalstore
 The project utilizes Power BI, a powerful data visualization and reporting tool, to provide insights and make data-driven decisions.
 
 Key Objectives:
