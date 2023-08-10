@@ -1,6 +1,9 @@
 # Project1_PowerBI_globalstore
 The project utilizes Power BI, a powerful data visualization and reporting tool, to provide insights and make data-driven decisions.
 
+![pr1](https://github.com/kiranmundhe/Project1_PowerBI_Globalstore/assets/133971186/3702c0b0-938c-4ede-891d-fd86be463a26)
+
+
 Key Objectives:
 
 Data Integration: The project involves gathering data from various sources within the Global Superstore, such as sales transactions, customer information, product inventory, and regional sales data, and integrating it into a unified data model.
